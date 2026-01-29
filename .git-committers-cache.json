@@ -1,5 +1,5 @@
 {
-  "cache_date": 1769167377,
+  "cache_date": 1769675662,
   "page_authors": {
     "solution/0000-0099/0001.Two Sum/README.md": {
       "authors": [
@@ -4159,7 +4159,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1745668880
+      "retrieved": 1769672487
     },
     "solution/1200-1299/1201.Ugly Number III/README.md": {
       "authors": [
@@ -32671,19 +32671,19 @@
     "solution/0200-0299/0273.Integer to English Words/README.md": {
       "authors": [
         {
-          "login": "rain84",
-          "name": "rain84",
-          "url": "https://github.com/rain84",
-          "avatar": "https://avatars.githubusercontent.com/u/1732547?v=4"
-        },
-        {
           "login": "yanglbme",
           "name": "yanglbme",
           "url": "https://github.com/yanglbme",
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        },
+        {
+          "login": "rain84",
+          "name": "rain84",
+          "url": "https://github.com/rain84",
+          "avatar": "https://avatars.githubusercontent.com/u/1732547?v=4"
         }
       ],
-      "retrieved": 1745669531
+      "retrieved": 1769673162
     },
     "solution/2700-2799/2730.Find the Longest Semi-Repetitive Substring/README.md": {
       "authors": [
@@ -36874,7 +36874,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/44314231?v=4"
         }
       ],
-      "retrieved": 1745669633
+      "retrieved": 1769673270
     },
     "solution/2900-2999/2977.Minimum Cost to Convert String II/README.md": {
       "authors": [
@@ -36891,7 +36891,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/44314231?v=4"
         }
       ],
-      "retrieved": 1765810131
+      "retrieved": 1769673271
     },
     "solution/2900-2999/2978.Symmetric Coordinates/README.md": {
       "authors": [
@@ -71274,7 +71274,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1745670463
+      "retrieved": 1769674244
     },
     "solution/1200-1299/1201.Ugly Number III/README_EN.md": {
       "authors": [
@@ -99888,19 +99888,19 @@
     "solution/0200-0299/0273.Integer to English Words/README_EN.md": {
       "authors": [
         {
-          "login": "rain84",
-          "name": "rain84",
-          "url": "https://github.com/rain84",
-          "avatar": "https://avatars.githubusercontent.com/u/1732547?v=4"
-        },
-        {
           "login": "yanglbme",
           "name": "yanglbme",
           "url": "https://github.com/yanglbme",
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        },
+        {
+          "login": "rain84",
+          "name": "rain84",
+          "url": "https://github.com/rain84",
+          "avatar": "https://avatars.githubusercontent.com/u/1732547?v=4"
         }
       ],
-      "retrieved": 1745671091
+      "retrieved": 1769674892
     },
     "solution/2700-2799/2730.Find the Longest Semi-Repetitive Substring/README_EN.md": {
       "authors": [
@@ -103983,16 +103983,16 @@
     "solution/2900-2999/2976.Minimum Cost to Convert String I/README_EN.md": {
       "authors": [
         {
-          "login": "rain84",
-          "name": "rain84",
-          "url": "https://github.com/rain84",
-          "avatar": "https://avatars.githubusercontent.com/u/1732547?v=4"
-        },
-        {
           "login": "yanglbme",
           "name": "yanglbme",
           "url": "https://github.com/yanglbme",
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        },
+        {
+          "login": "rain84",
+          "name": "rain84",
+          "url": "https://github.com/rain84",
+          "avatar": "https://avatars.githubusercontent.com/u/1732547?v=4"
         },
         {
           "login": "acbin",
@@ -104001,7 +104001,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/44314231?v=4"
         }
       ],
-      "retrieved": 1745671190
+      "retrieved": 1769674999
     },
     "solution/2900-2999/2977.Minimum Cost to Convert String II/README_EN.md": {
       "authors": [
@@ -104018,7 +104018,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/44314231?v=4"
         }
       ],
-      "retrieved": 1765812459
+      "retrieved": 1769674999
     },
     "solution/2900-2999/2978.Symmetric Coordinates/README_EN.md": {
       "authors": [
@@ -129693,7 +129693,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1759710074
+      "retrieved": 1769673562
     },
     "solution/3600-3699/3651.Minimum Cost Path with Teleportations/README.md": {
       "authors": [
@@ -129704,7 +129704,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164797
+      "retrieved": 1769673562
     },
     "solution/3600-3699/3648.Minimum Sensors to Cover Grid/README_EN.md": {
       "authors": [
@@ -129737,7 +129737,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1759710929
+      "retrieved": 1769675280
     },
     "solution/3600-3699/3651.Minimum Cost Path with Teleportations/README_EN.md": {
       "authors": [
@@ -129748,7 +129748,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166911
+      "retrieved": 1769675280
     },
     "solution/3600-3699/3652.Best Time to Buy and Sell Stock using Strategy/README.md": {
       "authors": [
@@ -133225,7 +133225,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164879
+      "retrieved": 1769673626
     },
     "solution/3800-3899/3810.Minimum Operations to Reach Target Array/README.md": {
       "authors": [
@@ -133236,7 +133236,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164880
+      "retrieved": 1769673627
     },
     "solution/3800-3899/3811.Number of Alternating XOR Partitions/README.md": {
       "authors": [
@@ -133247,7 +133247,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164880
+      "retrieved": 1769673628
     },
     "solution/3800-3899/3812.Minimum Edge Toggles on a Tree/README.md": {
       "authors": [
@@ -133258,7 +133258,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164881
+      "retrieved": 1769673628
     },
     "solution/3800-3899/3813.Vowel-Consonant Score/README.md": {
       "authors": [
@@ -133269,7 +133269,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164882
+      "retrieved": 1769673629
     },
     "solution/3800-3899/3814.Maximum Capacity Within Budget/README.md": {
       "authors": [
@@ -133280,7 +133280,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164882
+      "retrieved": 1769673629
     },
     "solution/3800-3899/3815.Design Auction System/README.md": {
       "authors": [
@@ -133291,7 +133291,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164883
+      "retrieved": 1769673630
     },
     "solution/3800-3899/3816.Lexicographically Smallest String After Deleting Duplicate Characters/README.md": {
       "authors": [
@@ -133302,7 +133302,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769164884
+      "retrieved": 1769673630
     },
     "solution/3800-3899/3817.Good Indices in a Digit String/README.md": {
       "authors": [
@@ -133346,7 +133346,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166988
+      "retrieved": 1769675342
     },
     "solution/3800-3899/3810.Minimum Operations to Reach Target Array/README_EN.md": {
       "authors": [
@@ -133357,7 +133357,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166989
+      "retrieved": 1769675343
     },
     "solution/3800-3899/3811.Number of Alternating XOR Partitions/README_EN.md": {
       "authors": [
@@ -133368,7 +133368,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166990
+      "retrieved": 1769675343
     },
     "solution/3800-3899/3812.Minimum Edge Toggles on a Tree/README_EN.md": {
       "authors": [
@@ -133379,7 +133379,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166991
+      "retrieved": 1769675344
     },
     "solution/3800-3899/3813.Vowel-Consonant Score/README_EN.md": {
       "authors": [
@@ -133390,7 +133390,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166991
+      "retrieved": 1769675344
     },
     "solution/3800-3899/3814.Maximum Capacity Within Budget/README_EN.md": {
       "authors": [
@@ -133401,7 +133401,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166992
+      "retrieved": 1769675345
     },
     "solution/3800-3899/3815.Design Auction System/README_EN.md": {
       "authors": [
@@ -133412,7 +133412,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166992
+      "retrieved": 1769675345
     },
     "solution/3800-3899/3816.Lexicographically Smallest String After Deleting Duplicate Characters/README_EN.md": {
       "authors": [
@@ -133423,7 +133423,7 @@
           "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
         }
       ],
-      "retrieved": 1769166993
+      "retrieved": 1769675346
     },
     "solution/3800-3899/3817.Good Indices in a Digit String/README_EN.md": {
       "authors": [
@@ -133435,6 +133435,116 @@
         }
       ],
       "retrieved": 1769166994
+    },
+    "solution/3800-3899/3818.Minimum Prefix Removal to Make Array Strictly Increasing/README.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769673631
+    },
+    "solution/3800-3899/3819.Rotate Non Negative Elements/README.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769673632
+    },
+    "solution/3800-3899/3820.Pythagorean Distance Nodes in a Tree/README.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769673633
+    },
+    "solution/3800-3899/3821.Find Nth Smallest Integer With K One Bits/README.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769673633
+    },
+    "solution/3800-3899/3822.Design Order Management System/README.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769673634
+    },
+    "solution/3800-3899/3818.Minimum Prefix Removal to Make Array Strictly Increasing/README_EN.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769675347
+    },
+    "solution/3800-3899/3819.Rotate Non Negative Elements/README_EN.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769675347
+    },
+    "solution/3800-3899/3820.Pythagorean Distance Nodes in a Tree/README_EN.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769675348
+    },
+    "solution/3800-3899/3821.Find Nth Smallest Integer With K One Bits/README_EN.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769675348
+    },
+    "solution/3800-3899/3822.Design Order Management System/README_EN.md": {
+      "authors": [
+        {
+          "login": "yanglbme",
+          "name": "yanglbme",
+          "url": "https://github.com/yanglbme",
+          "avatar": "https://avatars.githubusercontent.com/u/21008209?v=4"
+        }
+      ],
+      "retrieved": 1769675349
     }
   }
 }
